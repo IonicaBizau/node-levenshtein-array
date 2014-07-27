@@ -1,0 +1,25 @@
+{
+  "name": "levenshtein-array",
+  "version": "1.0.0",
+  "description": "Levenshtein distance for an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-levenshtein-array.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "array",
+    "distance",
+    "sort"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-levenshtein-array/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-levenshtein-array"
+}
