@@ -10,6 +10,21 @@ $ cd levenshtein-array
 $ npm install
 ```
 
+## Example
+
+```js
+var LevenshteinArray = require("levenshtein-array");
+
+console.log(
+    LevenshteinArray([
+        "principal"
+      , "principle"
+      , "prince"
+      , "prism"
+    ], "princedom")
+);
+```
+
 ## How to contribute
 
 1. File an issue in the repository, using the bug tracker, describing the
