@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-levenshtein-array/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-levenshtein-array"
+  "homepage": "https://github.com/IonicaBizau/node-levenshtein-array",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "levdist": "^1.0.0"
+  },
+  "devDependencies": {}
 }
