@@ -2,7 +2,7 @@
   "name": "levenshtein-array",
   "version": "1.0.0",
   "description": "Levenshtein distance for an array.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node example/index"
   },
