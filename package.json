@@ -4,7 +4,7 @@
   "description": "Levenshtein distance for an array.",
   "main": "index.js",
   "scripts": {
-    "test": "node test/index"
+    "test": "node example/index"
   },
   "repository": {
     "type": "git",
@@ -17,16 +17,16 @@
     "sort"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-levenshtein-array/issues"
   },
   "homepage": "https://github.com/IonicaBizau/node-levenshtein-array",
+  "devDependencies": {},
   "directories": {
-    "test": "test"
+    "example": "example"
   },
   "dependencies": {
-    "levdist": "^1.0.0"
-  },
-  "devDependencies": {}
+    "levdist": "^2.0.0"
+  }
 }

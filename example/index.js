@@ -1,4 +1,5 @@
-var LevenshteinArray = require("../index");
+// Dependencies
+var LevenshteinArray = require("../lib");
 
 console.log(
     LevenshteinArray([
@@ -8,3 +9,4 @@ console.log(
       , "prism"
     ], "princedom")
 );
+// => "prince"
