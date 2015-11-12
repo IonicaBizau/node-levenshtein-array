@@ -5,7 +5,7 @@ Levenshtein distance for an array.
 ## Installation
 
 ```sh
-$ npm i -g levenshtein-array
+$ npm i levenshtein-array
 ```
 
 ## Example
