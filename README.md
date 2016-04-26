@@ -1,14 +1,18 @@
+
 # levenshtein-array [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/levenshtein-array.svg)](https://www.npmjs.com/package/levenshtein-array) [![Downloads](https://img.shields.io/npm/dt/levenshtein-array.svg)](https://www.npmjs.com/package/levenshtein-array) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Levenshtein distance for an array.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save levenshtein-array
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -28,7 +32,8 @@ console.log(
 //   , { l: 5, w: 'prism' } ]
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `LevArray(data, str)`
 Finds the Levenshtein distance of an array, sorting it then.
@@ -42,15 +47,18 @@ Finds the Levenshtein distance of an array, sorting it then.
  - `l` (Number): The Levenshtein distance value.
  - `w` (String): The word.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`bible.js`](https://github.com/BibleJS/bible.js)
 
-## License
+ - [`bible.js`](https://github.com/BibleJS/bible.js)—The Bible as a NPM module.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
