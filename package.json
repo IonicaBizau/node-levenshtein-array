@@ -1,6 +1,6 @@
 {
   "name": "levenshtein-array",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "Levenshtein distance for an array.",
   "main": "lib/index.js",
   "scripts": {
@@ -37,6 +37,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
