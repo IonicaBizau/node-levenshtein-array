@@ -1,6 +1,6 @@
 {
   "name": "levenshtein-array",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "Levenshtein distance for an array.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "distance",
     "sort"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-levenshtein-array/issues"
@@ -33,12 +33,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
