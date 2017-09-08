@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Finds the Levenshtein distance of an array, sorting it then.
 
 #### Params
+
 - **Array** `data`: An array of strings.
 - **String** `str`: The searched string.
 
